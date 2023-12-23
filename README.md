@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Yordanos
 #### I am a Junior flutter developer and UI/UX Designer
-![I am a Junior flutter developer and UI/UX Designer](https://drive.google.com/drive/u/0/my-drive)
+![I am a Junior flutter developer and UI/UX Designer](https://photos.google.com/photo/AF1QipP8KX3NB4yEdcEIVpd6KX4IEQfmW0k-wB0pNFvd)
 
 
 Skills: Dart/Flutter/Firebase/Figma
