@@ -1,21 +1,29 @@
-### Hi there 👋
+### Hi there 👋, I am Yordanos
+#### I am a Junior flutter developer and UI/UX Designer
+![I am a Junior flutter developer and UI/UX Designer](https://drive.google.com/drive/u/0/my-drive)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### Hi there 👋, my name is Yordanos
-#### I am a junior flutter developer and UI/UX Designer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Dart/Flutter/Firebase/Figma
 
+- 🔭 I’m currently working on Flutter,Figma 
+- 🌱 I’m currently learning IT Support 
+- 🤔 I’m looking for help with Upwork 
+- 💬 Ask me about Flutter,Figma 
+- 📫 How to reach me: yordanosfikadu2017@gmail.com 
+- 😄 Pronouns: Mr 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yordanos-fikadu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yordanosfikaduportfolio.vercel.app)  
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yordanos-fikadu)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanos-fikadu)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yordanos-fikadu&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/yordanos-fikadu/contributions?format=svg&private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=yordanos-fikadu)  
 
