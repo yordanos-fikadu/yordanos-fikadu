@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Yordanos
 #### a Junior flutter developer and UI/UX Designer
-<img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=%2bEELJ6KgPy2Qcg&pid=ImgRaw" alt="Junior Flutter Developer and UI/UX Designer" height="30">
+![a Junior flutter developer and UI/UX Designer](<img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=%2bEELJ6KgPy2Qcg&pid=ImgRaw" alt="Junior Flutter Developer and UI/UX Designer" height="30">)
 
 Skills: Dart/Flutter/Firebase/Figma
 
